@@ -8,6 +8,6 @@ Haftalık ilerleme ve sistem analiz raporunu incelemek veya bilgisayarınıza in
 
 👉 [1. Hafta Raporunu PDF Olarak Görüntüle](1.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
 
-👉 [2. Hafta Raporunu PDF Olarak Görüntüle](1.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
+👉 [2. Hafta Raporunu PDF Olarak Görüntüle]()
 
 👉 [3. Hafta Raporunu PDF Olarak Görüntüle](3.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
