@@ -14,5 +14,6 @@ Haftalık ilerleme ve sistem analiz raporunu incelemek veya bilgisayarınıza in
 
 👉 [4. Hafta Raporunu PDF Olarak Görüntüle](4.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
 
-👉 [5. Hafta Raporunu PDF Olarak Görüntüle](5.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
-     * 👉 [5. Hafta raporu veri şeması.sql Görüntüle](duckcine_sema.sql)
+👉 [5. Hafta Raporu PDF Olarak Görüntüle](5.Hafta_Rapor_Gencer_YILDIZ_254309026.pdf)
+    * 👉 [5. Hafta raporu veri şeması.sql Görüntüle](duckcine_sema.sql)
+
